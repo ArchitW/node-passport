@@ -1,0 +1,8 @@
+use atlas for remote mongodb
+
+//mongodb+srv://dbuser:!234567@cluster0-8hr2x.mongodb.net/test?retryWrites=true
+npm install --save nodemon
+npm i express bcryptjs passport passport-local ejs express-ejs-layouts mongoose connect-flash express-session
+
+
+npm rundev
